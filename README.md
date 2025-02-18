@@ -21,10 +21,13 @@
 ![dashboardeditbychaima](https://github.com/user-attachments/assets/68d37ad0-d455-4b9d-8f06-1d18fba2ed93)
 # exemple 2
 ![dashbordpage](https://github.com/user-attachments/assets/1217bdf9-a0a7-4a9e-a5a5-cce870b8a739)
+### exemple of creating a microservices
+![microservicesdiagramme](https://github.com/user-attachments/assets/81e8d846-5f56-4ca3-bfbd-f9aa328414d7)
+
 ## microservices 
 ![mocroservices-architechture](https://github.com/user-attachments/assets/178025ba-eed7-4d95-ab53-c4c78e5bb80f)
 ![microservice_progress](https://github.com/user-attachments/assets/3e01af84-1471-4901-be56-a10538db85fc)
-# orgenz 
+# organization
 ![orgenztaionpage](https://github.com/user-attachments/assets/eb93c782-797c-4d61-92a7-ad2b366eca24)
 #membre
 ![membrespage](https://github.com/user-attachments/assets/00a55cb5-fc7f-4655-b78a-26c7f1b5cc00)
