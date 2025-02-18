@@ -73,12 +73,7 @@
 # List of all the members of the company
 ![membrespage](https://github.com/user-attachments/assets/00a55cb5-fc7f-4655-b78a-26c7f1b5cc00)
 
-# manging microservices
-![microservicedigrammetest](https://github.com/user-attachments/assets/02fa0949-f2c5-4fe7-a701-b533a02dfe64)
-
-
-
 # Exemple of creating a microservices
-![microservicesdiagramme](https://github.com/user-attachments/assets/81e8d846-5f56-4ca3-bfbd-f9aa328414d7)
+![microservicedigrammetest](https://github.com/user-attachments/assets/02fa0949-f2c5-4fe7-a701-b533a02dfe64)
 
 
