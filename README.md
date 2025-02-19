@@ -37,7 +37,8 @@
 ![profilee](https://github.com/user-attachments/assets/b36f2d35-e2b8-41fa-8840-2033099c0d5d)
 
 ### Microservice detail
-![microservices](https://github.com/user-attachments/assets/c9d4277e-084d-458f-904d-17e939a3311e)
+![microservicesdetails](https://github.com/user-attachments/assets/0d3c4fc7-4335-4a1d-a2c7-2d07265eeaf2)
+
 
 
 # Microservices dashbord 
