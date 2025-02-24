@@ -17,6 +17,8 @@
 ### Adding new project
 ![addprojet1](https://github.com/user-attachments/assets/f32fc71e-ba97-4a48-975e-5a4bae7cd621)
 ![addprojet2](https://github.com/user-attachments/assets/1c4d3c50-b96a-434d-860c-9acf38d3c8de)
+![addproject3](https://github.com/user-attachments/assets/8f255650-434f-4351-82a8-ab7dbcd59b3b)
+
 
 
 # Developer profile
